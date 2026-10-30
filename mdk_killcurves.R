@@ -262,6 +262,7 @@ print(round(n0_tab, 2))
 cat("\n--- MDK summary (h) ---\n")
 print(out, row.names = FALSE)
 
+#write data
 write.csv(pts, "mdk_points.csv",  row.names = FALSE)
 write.csv(out, "mdk_summary.csv", row.names = FALSE)
 
