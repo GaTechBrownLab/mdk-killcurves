@@ -7,7 +7,7 @@
 #   persistence -> MDK99 normal but MDK99.99 disproportionately long
 #                  (biphasic curve)
 #
-# Base R only. The figure is drawn by mdk_plot_ggplot.R (needs ggplot2).
+# figures need ggplot2
 # =====================================================================
 # run from the repository folder; the plate counts go in data/ (see data/README.md)
 
